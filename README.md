@@ -3,7 +3,7 @@
 **Esercizio**
 
 Creiamo le seguenti rotte:
-home
+- home
 - posts/ (index)
 - posts/ (store)
 - posts/:slug (show)
